@@ -33,10 +33,10 @@ export default function Navigation() {
 
           {/* Sign Up and Sign In Buttons */}
           <div className="flex items-center space-x-2">
-            <Link href='/sign-in'><Button variant="ghost" className="text-blue-900 hover:text-teal-500">
+            <Link href='/dashboard'><Button variant="ghost" className="text-blue-900 hover:text-teal-500">
               Sign In
             </Button></Link>
-            <Link href='/sign-in'><Button className="bg-teal-500 text-white hover:bg-teal-600">Sign Up</Button></Link>
+            <Link href='/sign-up'><Button className="bg-teal-500 text-white hover:bg-teal-600">Sign Up</Button></Link>
           </div>
         </div>
       </div>
