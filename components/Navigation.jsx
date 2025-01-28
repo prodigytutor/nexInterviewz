@@ -12,7 +12,7 @@ export default function Navigation() {
           {/* Logo and Name */}
           <div className="flex items-center">
             <Laptop className="h-8 w-8 text-teal-500 mr-2" />
-            <Link href="//"><span className="font-bold text-xl text-blue-900">InterviewPro</span></Link>
+            <Link href="/"><span className="font-bold text-xl text-blue-900">NexInterviewz</span></Link>
           </div>
 
           {/* Navigation Links */}
